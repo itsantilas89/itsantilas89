@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello 👋, I'm Ioannis (Juan) Tsantilas!
 
-<!--
-**itsantilas89/itsantilas89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Junior Research Associate @ Institute of Communication and Computer Science (ICCS), in the Energy Perfomance Unit (EPU), in National Technical University of Athens (NTUA)! 
 
-Here are some ideas to get you started:
+## 🛠 Skills and Tools:
+- Languages: Python, C/C++, C#, React-JS, Django
+- Tools: Node.js, Firebase, Docker, VS-Code, Adobe, Microsoft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ntua-el20883&show_icons=true&theme=tokyonight)
+
+## 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntua-el20883&layout=compact&theme=tokyonight)
+
+## 📫 How to Reach Me:
+- Email: [ioannistsantilas89@gmail.com](mailto:ioannistsantilas89@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ioannis-tsantilas/)
