@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a Junior Research Associate @ Institute of Com
 - Tools: Node.js, Firebase, Docker, VS-Code, Adobe, Microsoft
 
 ## 🔥 My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ntua-el20883&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsantilas89&show_icons=true&theme=tokyonight)
 
 ## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntua-el20883&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsantilas89&layout=compact&theme=tokyonight)
 
 ## 📫 How to Reach Me:
 - Email: [ioannistsantilas89@gmail.com](mailto:ioannistsantilas89@gmail.com)
